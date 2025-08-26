@@ -12,6 +12,7 @@ What is the minimum number of hours a person works per week?
 What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
 What country has the highest percentage of people that earn >50K and what is that percentage?
 Identify the most popular occupation for those who earn >50K in India.
+
 Use the starter code in the file demographic_data_analyzer.py. Update the code so all variables set to None are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
 
 ## Dataset Source : 
